@@ -1,0 +1,13 @@
+v 3                                                      
+* testsite template                                      
+d a workshop materials                                   
+d Doug Hemken                                            
+d Social Science Computing Coop, Univ. of Wisc.-Madison  
+d Updated:  7 Dec 2017                                   
+d                                                        
+d Support: email helpdesk@ssc.wisc.edu                   
+d                                                        
+f a/test.ado                                             
+f a/testhelp.sthlp                                       
+f a/test.do                                              
+f a/test.dta                                             

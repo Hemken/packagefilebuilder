@@ -1,0 +1,9 @@
+v 3
+* testsite template
+d PackageName materials
+d Doug Hemken
+d Social Science Computing Coop, Univ. of Wisc.-Madison
+d Updated: CurrentDate
+d
+d Support: email helpdesk@ssc.wisc.edu
+d
